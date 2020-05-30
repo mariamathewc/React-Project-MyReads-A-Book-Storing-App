@@ -1,4 +1,4 @@
-ABOUT
+<h1>ABOUT</h1>
 This is a React application that was built as part of the Udacity React Nanodegree Program. In this project, a virtual bookcase is created with three different bookshelves which are "Currently Reading", "Want to Read" and "Read". A user can store and track books that he/she is reading in these 3 shelves. They can search for books from the database and can add them to the bookshelf. Each shelf in this bookshelf is a react component. Books are searched using the Books API. React’s setState enables users to switch books between shelves.
 
 
