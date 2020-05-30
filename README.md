@@ -4,10 +4,10 @@ This is a React application that was built as part of the Udacity React Nanodegr
 
 <h2>Getting Started</h2>
 <ul>
-<li>Run git clone https://github.com/mariamathewc/MyReads-A-Book-Tracking-App.git to clone this repository</li>
-  <li>Navigate to myreads using cd myreads</li> 
-  <li>Run npm install</li>
-<li>Run yarn start to start the app and navigate to http://localhost:3000/ on your local machine</li>
+  <li>Run <em>git clone https://github.com/mariamathewc/MyReads-A-Book-Tracking-App.git </em>to clone this repository</li>
+  <li>Navigate to myreads using <em>cd myreads</em></li> 
+  <li>Run <em>npm install</em></li>
+  <li>Run <em>yarn start</em> to start the app and navigate to http://localhost:3000/ on your local machine</li>
  </ul> 
 
 <h2>Demo</h2>
