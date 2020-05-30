@@ -9,4 +9,5 @@ Run npm install
 Run yarn start to start the app and navigate to http://localhost:3000/ on your local machine
 
 <h2>Demo</h2>
+
 ![](gif/myReads.gif)
